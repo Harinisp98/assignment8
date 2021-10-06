@@ -1,0 +1,6 @@
+1.React Composition is a development pattern based on React's original component model where we build components from other components using explicit defined props or the implicit children prop
+Inheritance allows the app to do the coupling between the parent-child component and reuse properties such as state values and function in its child components.
+2.lift the state up is used when the output is constently changring life temperature , count etc
+3.Event handlers can be used to handle and verify user input, user actions, and browser actions. Events are signals fired inside the browser window that notify of changes in the browser or operating system environment.
+4.<Car {... car}/>
+
